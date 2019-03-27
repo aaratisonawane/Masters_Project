@@ -1,0 +1,129 @@
+
+.post-head {
+    background: #f3f3f3;
+    line-height: 46px !important;
+    color: #a9a9a9;
+    font: 15px 'Hind', sans-serif;
+    position: relative
+}
+
+.post-head-container {
+    background-color: #f3f3f3;
+    float: left;
+    width: 100%;
+    border-top: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+    border-left: 1px solid #d8d8d8;
+    -moz-box-shadow: -1px 3px 3px rgba(0, 0, 0, 0.03);
+    -webkit-box-shadow: -1px 3px 3px rgba(0, 0, 0, 0.03);
+    -o-box-shadow: -1px 3px 3px rgba(0, 0, 0, 0.03);
+    box-shadow: -1px 3px 3px rgba(0, 0, 0, 0.03)
+}
+
+.post-head-left {
+    width: 173px;
+    padding-left: 10px !important;
+    float: left;
+    border-right: 1px solid #d8d8d8;
+    border-left: 1px solid #d8d8d8
+}
+.post-head-left-thread {
+    width: 50px;
+    float: left;
+    border-right: 1px solid #d8d8d8;
+    border-left: 1px solid #d8d8d8
+}
+
+.post-head-right {
+    border-right: 1px solid #d8d8d8;
+    font-size: 14px;
+    margin-left: 195px
+}
+.post-head-right-thread {
+    border-right: 1px solid #d8d8d8;
+    font-size: 14px;
+    margin-left: 80px
+}
+
+
+.bigfusername {
+    position: relative;
+    top: -1px
+}
+
+.smallfont {
+    font: normal normal 14px/14px 'Hind', sans-serif
+}
+
+.time {
+    color: #a9a9a9
+}
+
+.post-content-container {
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #d8d8d8;
+    border-left: 1px solid #d8d8d8;
+    border-right: 1px solid #d8d8d8;
+    width: 100%;
+    padding: 2%;
+    position: relative;
+    display: table;
+    clear: left
+}
+
+.postbit-buttons {
+    float: right
+}
+
+.postbit-social-left {
+    float: left;
+}
+
+.postbit-buttons A {
+    color: #a9a9a9;
+    line-height: 46px;
+    height: 46px;
+    text-align: center;
+    width: 50px;
+    margin: 0;
+    border-left: 1px solid #d8d8d8;
+    font-size: 22px;
+    display: inline-block;
+    float: right
+}
+
+.postbit-buttons I {
+    line-height: 46px;
+    width: 100%;
+    text-align: center
+}
+.postbit-social-left A {
+    color: #a9a9a9;
+    line-height: 46px;
+    height: 46px;
+    text-align: center;
+    width: 50px;
+    margin: 0;
+    border-right: 1px solid #d8d8d8;
+    font-size: 22px;
+    display: inline-block;
+    float: left;
+}
+
+.g-list-alt {
+    color: #5e5e5e;
+}
+
+.postbit-social-left I {
+    line-height: 46px;
+    width: 100%;
+    text-align: center
+}
+
+.g-edit {
+    color: orange;
+}
+
+.g-delete {
+    color: darkred;
+}

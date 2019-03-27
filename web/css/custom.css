@@ -1,0 +1,163 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #fff;
+}
+
+#wrap {
+    min-height: 100%;
+}
+
+#main {
+    overflow:auto;
+    padding-bottom:150px; /* this needs to be bigger than footer height*/
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+.form-signin img{
+    margin:0 25% 0 25%;
+}
+
+.heading{
+    font-size:25px;
+}
+.heading-desc{
+    font-size:18px;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-radius: 0;
+
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-radius: 0;
+}
+.help
+{
+    margin-top: 10px;
+}
+.account-creation
+{
+    display: block;
+    margin-top: 10px;
+}
+
+
+.pad {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.property-data {
+    width: 100%
+}
+
+.property-data .expandable-subtype-last li {
+    font-size: 1.375rem
+}
+
+@media (max-width: 1439px) {
+    .property-data .expandable-subtype-last li {
+        font-size: 1.125rem
+    }
+}
+
+@media (max-width: 1165px) {
+    .property-data .expandable-subtype-last li {
+        font-size: .875rem
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1165px), all and (max-width: 1024px) {
+    .property-data {
+        font-size: .875rem
+    }
+}
+
+.property-data tr {
+    border-bottom: 2px dotted #ddd
+}
+
+.property-data tr:last-child {
+    border-bottom: 0 none
+}
+
+.property-data tr td {
+    padding: 8px 0;
+    width: 25%;
+    vertical-align: top
+}
+
+@media (min-width: 768px) and (max-width: 1165px), all and (max-width: 1024px) {
+    .property-data tr td {
+        padding: 5px 0
+    }
+}
+
+.property-data tr td:nth-child(odd) {
+    font-weight: normal
+}
+
+.property-data tr td:nth-child(2) {
+    border-right: 2px dotted #ddd
+}
+
+.property-data tr td:nth-child(3) {
+    padding-left: 10px
+}
+
+.property-data.major-tenant th {
+    padding: 10px 0;
+    width: 25%;
+    vertical-align: top;
+    font-weight: 100;
+    text-align: left;
+    color: #b1b3b0
+}
+
+.property-data.major-tenant td:nth-child(2) {
+    border-right: 0 none
+}
+
+.property-data.major-tenant td:nth-child(3) {
+    padding-left: 0
+}
+
+.property-data.major-tenant td:nth-child(odd) {
+    font-weight: 100
+}
+
+table.fixed { table-layout:fixed; }
+table.fixed td { overflow: hidden; }

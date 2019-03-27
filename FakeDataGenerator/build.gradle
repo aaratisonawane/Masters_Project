@@ -1,0 +1,14 @@
+group '1'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'io.codearte.jfairy:jfairy:0.5.2'
+}
