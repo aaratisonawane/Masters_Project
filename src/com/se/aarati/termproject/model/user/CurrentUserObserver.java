@@ -3,7 +3,7 @@ package com.se.aarati.termproject.model.user;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by aarati on 11/6/19.
+ * Created by aarati on 11/5/19.
  */
 public class CurrentUserObserver extends Observer{
 

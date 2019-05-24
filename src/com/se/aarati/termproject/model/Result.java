@@ -5,7 +5,7 @@ import com.google.gson.GsonBuilder;
 import java.sql.Timestamp;
 
 /**
- * Created by aarati on 24/5/19.
+ * Created by aarati on 24/4/19.
  */
 public class Result {
     private int resultID;

@@ -12,7 +12,7 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 /**
- * Created by aarati on 14/5/19.
+ * Created by aarati on 14/4/19.
  */
 @WebServlet(name = "com.se.aarati.termproject.controllers.auth.LoginServlet", urlPatterns = {"/LoginServlet"})
 public class LoginServlet extends HttpServlet {

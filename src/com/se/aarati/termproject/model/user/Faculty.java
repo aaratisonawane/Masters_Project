@@ -1,7 +1,7 @@
 package com.se.aarati.termproject.model.user;
 
 /**
- * Created by aarati on 14/5/19.
+ * Created by aarati on 14/4/19.
  */
 public class Faculty extends User {
 
