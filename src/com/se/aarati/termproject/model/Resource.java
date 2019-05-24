@@ -8,7 +8,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
- * Created by aarati on 20/4/19.
+ * Created by aarati on 20/5/19.
  */
 public class Resource {
     private String name;

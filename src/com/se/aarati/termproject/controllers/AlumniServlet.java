@@ -16,7 +16,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 /**
- * Created by aarati on 22/4/19.
+ * Created by aarati on 22/5/19.
  */
 @WebServlet("/alumni")
 public class AlumniServlet extends HttpServlet {

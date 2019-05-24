@@ -1,5 +1,5 @@
 /**
- * Created by aarati on 22/4/19.
+ * Created by aarati on 22/5/19.
  */
 function enroll(index, netID, number, term, year) {
     var should = $('#enroll' + index).text().toString().trim() == "Enroll";

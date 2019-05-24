@@ -3,7 +3,7 @@ package com.se.aarati.termproject.model.announcement;
 import java.sql.Timestamp;
 
 /**
- * Created by aarati on 23/4/19.
+ * Created by aarati on 23/5/19.
  */
 public class Job extends Announcement{
 

@@ -16,7 +16,7 @@ import java.io.PrintWriter;
 import java.sql.*;
 
 /**
- * Created by aarati on 20/4/19.
+ * Created by aarati on 20/5/19.
  */
 @WebServlet("/TimeSlots")
 public class TimeSlotServlet extends HttpServlet {

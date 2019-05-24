@@ -5,7 +5,7 @@ import com.se.aarati.termproject.model.Course;
 import java.util.Calendar;
 
 /**
- * Created by aarati on 22/4/19.
+ * Created by aarati on 22/5/19.
  */
 public class TermUtil {
     public static Term getCurrentTerm() {

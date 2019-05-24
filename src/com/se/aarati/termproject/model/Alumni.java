@@ -3,7 +3,7 @@ package com.se.aarati.termproject.model;
 import com.google.gson.GsonBuilder;
 
 /**
- * Created by aarati on 22/4/19.
+ * Created by aarati on 22/5/19.
  */
 public class Alumni {
     @Override
