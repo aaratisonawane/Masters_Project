@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 
 /**
- * Created by aarati on 22/5/19.
+ * Created by aarati on 22/4/19.
  */
 @WebServlet("/course_info")
 public class CourseInfoServlet extends HttpServlet {
