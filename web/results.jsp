@@ -1,7 +1,7 @@
-<%@ page import="com.se.pranita.termproject.model.Result" %>
+<%@ page import="com.se.aarati.termproject.model.Result" %>
 <%@ page import="java.text.SimpleDateFormat" %>
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="com.se.pranita.termproject.model.Exam" %>
+<%@ page import="com.se.aarati.termproject.model.Exam" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

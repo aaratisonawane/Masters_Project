@@ -1,1 +1,1 @@
-heroku deploy:war --war out/artifacts/TermProject_war/TermProject_war.war --app pranita-webportal
+heroku deploy:war --war out/artifacts/TermProject_war/TermProject_war.war --app aarati-webportal

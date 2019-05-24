@@ -1,6 +1,6 @@
-<%@ page import="com.se.pranita.termproject.model.user.Student" %>
-<%@ page import="com.se.pranita.termproject.model.Course" %>
-<%@ page import="com.se.pranita.termproject.utils.ProgramRequirement" %>
+<%@ page import="com.se.aarati.termproject.model.user.Student" %>
+<%@ page import="com.se.aarati.termproject.model.Course" %>
+<%@ page import="com.se.aarati.termproject.utils.ProgramRequirement" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>

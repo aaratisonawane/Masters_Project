@@ -1,4 +1,4 @@
-<%@ page import="com.se.pranita.termproject.model.Exam" %>
+<%@ page import="com.se.aarati.termproject.model.Exam" %>
 <%@ page import="java.text.SimpleDateFormat" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.sql.Date" %>
