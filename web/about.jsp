@@ -1,7 +1,7 @@
 <%--
   Created by IntelliJ IDEA.
-  User: pranita
-  Date: 14/4/16
+  User: aarati
+  Date: 14/4/19
   Time: 7:15 PM
   To change this template use File | Settings | File Templates.
 --%>
@@ -24,7 +24,7 @@
                 <div class="jumbotron">
                     <h2>About WebPortal</h2>
                     <%--<h1>Welcome to the WebPortal homepage.</h1>--%>
-                    <p>WebPortal is a SE Project for Spring 2016 Term developed by Pranita Setiya.</p>
+                    <p>WebPortal is a SE Project for Spring 2016 Term developed by aarati Sonawane.</p>
                     <p>WebPortal is a Student Management System.</p>
                     <p>Technologies Used:
                     <ul>

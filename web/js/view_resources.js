@@ -1,5 +1,5 @@
 /**
- * Created by pranita on 21/4/16.
+ * Created by aarati on 21/4/19.
  */
 function cancelIt(r_name, net_Id, slot_date, slot_time_range) {
     console.log(name, net_Id, slot_date, slot_time_range);

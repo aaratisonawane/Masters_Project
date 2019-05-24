@@ -1,11 +1,11 @@
-package com.se.pranita.termproject;
+package com.se.aarati.termproject;
 
-import com.se.pranita.termproject.model.*;
-import com.se.pranita.termproject.model.announcement.Announcement;
-import com.se.pranita.termproject.model.announcement.AnnouncementFactory;
-import com.se.pranita.termproject.model.announcement.Event;
-import com.se.pranita.termproject.model.dao.*;
-import com.se.pranita.termproject.model.user.*;
+import com.se.aarati.termproject.model.*;
+import com.se.aarati.termproject.model.announcement.Announcement;
+import com.se.aarati.termproject.model.announcement.AnnouncementFactory;
+import com.se.aarati.termproject.model.announcement.Event;
+import com.se.aarati.termproject.model.dao.*;
+import com.se.aarati.termproject.model.user.*;
 import io.codearte.jfairy.Fairy;
 import io.codearte.jfairy.producer.company.Company;
 import io.codearte.jfairy.producer.person.Person;
@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Created by Pranita on 7/5/16.
+ * Created by aarati on 7/5/19.
  */
 public class FakeDataGenerator {
 

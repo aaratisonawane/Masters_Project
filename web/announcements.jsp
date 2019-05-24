@@ -1,6 +1,6 @@
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="com.se.pranita.termproject.model.announcement.Announcement" %>
-<%@ page import="com.se.pranita.termproject.model.announcement.Event" %>
+<%@ page import="com.se.aarati.termproject.model.announcement.Announcement" %>
+<%@ page import="com.se.aarati.termproject.model.announcement.Event" %>
 <%@ page import="java.text.SimpleDateFormat" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
