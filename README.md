@@ -1,5 +1,5 @@
 # WebPortal
-WebPortal is a Student Management System: https://aarati-webportal.herokuapp.com
+WebPortal is a Student Management System: https://pranita-webportal.herokuapp.com
 
 
 Technologies Used:
